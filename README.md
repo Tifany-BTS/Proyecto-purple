@@ -31,5 +31,9 @@ Pensada exclusivamente para ropa de mujer, combina **elegancia y simplicidad** p
 2. Instalar dependencias
 Asegúrate de tener Node.js y npm instalados. Luego ejecuta:
 ```bash
-bash
 npm install
+```
+3. Compilar TypeScript a JavaScript
+Convierte los archivos .ts en .js ejecutables usando el compilador de TypeScript:
+```bash
+npx tsc
