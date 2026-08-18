@@ -25,10 +25,10 @@ Pensada exclusivamente para ropa de mujer, combina **elegancia y simplicidad** p
  1. **Clonar el repositorio**  
    Abre tu terminal y escribe:  
    ```bash
-   git clone https://github.com/usuario/purple-bloom.git
-   cd purple-bloom
+ git clone https://github.com/usuario/purple-bloom.git
+ cd purple-bloom.
 
-2. **Instalar dependencias**
+2. Instalar dependencias
 Asegúrate de tener Node.js y npm instalados. Luego ejecuta:
 bash
 npm install
