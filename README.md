@@ -17,7 +17,7 @@ Pensada exclusivamente para ropa de mujer, combina **elegancia y simplicidad** p
 - `robots.txt` → Configuración para buscadores.  
 - `sitemap.xml` → Mapa del sitio para SEO.  
 - `tsconfig.json` → Configuración de compilación de TypeScript.  
-- `README.md` → Documentación del proyecto. 
+- `README.md` → Documentación del proyecto. hu
 
 ---
 
