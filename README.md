@@ -22,7 +22,8 @@ Pensada exclusivamente para ropa de mujer, combina **elegancia y simplicidad** p
 
 ## 🚀 Instrucciones básicas de uso
 
-1. **Clonar el repositorio**  
+ 1. **Clonar el repositorio**  
+   Abre tu terminal y escribe:  
    ```bash
    git clone https://github.com/usuario/purple-bloom.git
    cd purple-bloom
